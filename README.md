@@ -249,11 +249,11 @@ python run.py \
 
 This codebase has been heavily influenced by and builds upon the following repositories:
 
-- **LQLoRA** [[GitHub](https://github.com/HanGuo97/lq-lora)] [[Paper](https://arxiv.org/abs/2311.12023)] - Low-rank plus quantized matrix decomposition techniques
-- **OATS** [[GitHub](https://github.com/stephenqz/OATS)] - Optimal adaptive threshold selection methods
-- **ALPS** [[GitHub](https://github.com/mazumder-lab/ALPS)] - Adaptive layerwise pruning strategies
-- **SparseGPT** [[GitHub](https://github.com/IST-DASLab/sparsegpt)] - One-shot pruning baseline
-- **HASSLE-free** [[GitHub](https://github.com/mazumder-lab/HASSLE-free)] - Hessian-free optimization framework
+- **LQLoRA** [[GitHub](https://github.com/HanGuo97/lq-lora)]
+- **OATS** [[GitHub](https://github.com/stephenqz/OATS)]
+- **ALPS** [[GitHub](https://github.com/mazumder-lab/ALPS)]
+- **SparseGPT** [[GitHub](https://github.com/IST-DASLab/sparsegpt)]
+- **HASSLE-free** [[GitHub](https://github.com/mazumder-lab/HASSLE-free)]
 
 We thank the authors of these works for their contributions to the field and for making their code publicly available.
 
